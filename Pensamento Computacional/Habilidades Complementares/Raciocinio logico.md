@@ -14,5 +14,5 @@
 		                 Sintetica              Analitica
 		                     |                       |
 		                |----------|                 |
-	                     Abducao     Inducao          Deducao
+	                   Abducao     Inducao          Deducao
 				
