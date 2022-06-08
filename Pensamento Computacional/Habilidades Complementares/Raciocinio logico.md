@@ -10,9 +10,9 @@
 			
 					Inferencia 
 						|
-			 |-----------------------|
-		 Sintetica              Analitica
-		     |                       |
-		|----------|                 |
-	Abducao     Inducao          Deducao
+			             |-----------------------|
+		                 Sintetica              Analitica
+		                     |                       |
+		                |----------|                 |
+	                     Abducao     Inducao          Deducao
 				
